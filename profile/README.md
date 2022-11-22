@@ -5,7 +5,7 @@
 
 Fluidity Money is the blockchain incentive layer, rewarding people for
 using their crypto. It does so via the novel "Transfer Reward Function" -
-a unique primitive that only rewards spending deriving utility.
+a unique primitive that rewards spending deriving utility.
 
 ## Documentation
 
