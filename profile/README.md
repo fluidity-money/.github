@@ -15,7 +15,7 @@ a unique primitive that rewards spending deriving utility.
 
 - [Discord](https://discord.gg/fluidity "Discord")
 
-- [Twitter](https://twitter.com/fluiditymoney "Twitter")
+- [Twitter](https://twitter.com/fluiditylabs "Twitter")
 
 - [Blog](https://blog.fluidity.money/ "Blog")
 
